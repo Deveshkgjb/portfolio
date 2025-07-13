@@ -40,9 +40,9 @@ export default function Portfolio() {
         <h2 className="text-2xl font-semibold mb-2 text-gray-300">Certifications & Courses</h2>
         <ul className="list-disc list-inside text-white">
           <li>Full Stack Web Development – MERN Stack (6-Month Course), Completed in 2025</li>
-          <li>Data Structures & Algorithms in Java – [Platform/Workshop]</li>
-          <li>Computer Networking Essentials – [Platform]</li>
-          <li>Git & GitHub for Developers – [Platform]</li>
+          <li>Data Structures & Algorithms in Java</li>
+          <li>Computer Networking Essentials  </li>
+          <li>Git & GitHub for Developers </li>
         </ul>
       </motion.section>
 
