@@ -14,8 +14,8 @@ export default function Portfolio() {
       </motion.h1>
       <p className="text-lg text-white mb-2">📍 Noida | 📞 +91 9958815201 | 📧 deveshkumar48507@gmail.com</p>
       <p className="text-lg text-blue-500 mb-6">
-        <a href="https://www.linkedin.com/in/devesh-kumar-5907b2309" target="_blank">LinkedIn</a> |
-        <a href="https://github.com/Deveshkgjb" className="ml-2" target="_blank">GitHub</a>
+        <a href="https://www.linkedin.com/in/devesh-kumar-5907b2309" target="_blank">https://www.linkedin.com/in/devesh-kumar-5907b2309</a> |
+        <a href="https://github.com/Deveshkgjb" className="ml-2" target="_blank">https://github.com/Deveshkgjb</a>
       </p>
 
       <motion.section className="mb-6" whileInView={{ opacity: 1 }} initial={{ opacity: 0 }} transition={{ delay: 0.2 }}>
